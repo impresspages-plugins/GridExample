@@ -4,7 +4,7 @@ Administration grid example for ImpressPages.
 
 ## Features
 
-Adds `Grid example` panel to administration page.
+Adds "Grid example" panel to administration page.
 
 ## Install
 
@@ -15,5 +15,5 @@ Adds `Grid example` panel to administration page.
 
 ## Usage
 
-1. Open `Grid example` panel.
+1. Open "Grid example" panel.
 2. Create a new record by clicking `Add` button.
